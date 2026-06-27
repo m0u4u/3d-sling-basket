@@ -1,0 +1,10 @@
+{
+  "name": "3D SLING BASKET",
+  "icons": [
+    {
+      "src": "/assets/favicon/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
