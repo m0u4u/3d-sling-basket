@@ -407,6 +407,9 @@ html[lang="en"] li[data-en] { display: list-item !important; }
     transition: all 0.2s ease;
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .lang-btn:hover {
