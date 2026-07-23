@@ -9,5 +9,5 @@ The following open-source fonts are used in this game and on its associated page
 
 <div class="license-note">
 <strong>Orbitron</strong>: Copyright 2018 The Orbitron Project Authors.<br>
-Licensed under the SIL Open Font License, Version 1.1. (<a href="https://openfontlicense.org/" target="_blank" rel="noopener noreferrer" aria-label="Open the openfontlicense.org website in a new tab" title="Open in a new tab">https://openfontlicense.org/</a>)
+Licensed under the SIL Open Font License, Version 1.1. (<a href="https://openfontlicense.org/" target="_blank" rel="noopener noreferrer" aria-label="Opens the openfontlicense.org website in a new tab" title="Opens in a new tab">https://openfontlicense.org/</a>)
 </div>

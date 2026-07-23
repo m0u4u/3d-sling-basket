@@ -11,4 +11,4 @@ Third-party services (Cloudflare, GitHub) are utilized as the delivery infrastru
 The creator reserves the right to modify this Privacy Policy at any time without prior notice to users, should the need arise. Any changes will become effective immediately upon being posted on this page.
 
 ### 5. Contact Information
-For inquiries, feedback, or legal matters regarding this game, please contact the following account: <a href="https://x.com/m0u4u" target="_blank" rel="noopener noreferrer" aria-label="Open m0u4u's X account in a new tab" title="Open in a new tab">@m0u4u (X)</a>
+For inquiries, feedback, or legal matters regarding this game, please contact the following account: <a href="https://x.com/m0u4u" target="_blank" rel="noopener noreferrer" aria-label="Opens m0u4u's X account in a new tab" title="Opens in a new tab">@m0u4u (X)</a>
