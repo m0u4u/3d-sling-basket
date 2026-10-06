@@ -21,10 +21,10 @@
     <main class="container">
         <div class="lang-switcher">
             <button type="button" class="lang-btn" id="langBtn" onclick="toggleLanguage()" 
-                    data-ja-title="言語を英語に切り替える"
-                    data-en-title="Switch language to Japanese"
-                    data-ja-aria="言語を英語に切り替える"
-                    data-en-aria="Switch language to Japanese">en
+                    data-ja-title="Switch language to English"
+                    data-en-title="言語を日本語に切り替える"
+                    data-ja-aria="Switch language to English"
+                    data-en-aria="言語を日本語に切り替える">EN
             </button>
         </div>
 
@@ -175,7 +175,7 @@
             
             const langBtn = document.getElementById("langBtn");
             if (langBtn) {
-                langBtn.textContent = lang === "ja" ? "en" : "ja";
+                langBtn.textContent = lang === "ja" ? "EN" : "JA";
             }
 
             document.querySelectorAll('[data-ja-aria], [data-en-aria]').forEach(el => {
